@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Versuri</string>
+    <string name="btnGet">Cauta versuri</string>
+    <string name="eroare_versuri">Nu au fost gasite versurile</string>
+</resources>
